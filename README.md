@@ -31,5 +31,5 @@
 * The webpage takes in the inputs for search which is case sensitive. For example: If a user uses 'US' as a country to search instead of 'us', the table will not show any results.
 
 ### Recommendations:
-* The input for search based on date can be updated using a filter, to accept a date range, so that even if a precise date is not known, the user can still see the results by referring to a date range.
-* In order to assist the users in a better way, the search can be made case-insensitive. In this way, it would not matter if a user uses upper or lower case while typing in the city, state or country, he will still be able to see the results.
+* The input for search based on date can be updated using a filter, to accept a date range, so that even if a precise date is not known, the user can still see the results by referring to a date range. For example, if the user searches for the data using a date of specific month i.e. '1/2/2010', even if data for that specific date does not exist, but the results can still be shown for that whole month, using the filter.
+* In order to assist the users in a better way, the search can be made case-insensitive. In this way, it would not matter if a user uses upper or lower case while typing in the city, state or country, he will still be able to see the results. For example, if the user types in 'US' instead of 'us' in the input for country, using the filters the table should still be able to show the results, rather than no results at all.
