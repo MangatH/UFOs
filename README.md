@@ -21,7 +21,7 @@
 
 <img width="1434" alt="Screen Shot 2022-11-14 at 7 01 41 PM" src="https://user-images.githubusercontent.com/111387025/201672930-445558b9-14c8-4b84-92b5-f42a02d3f17c.png">
 
-* The webpage showing the results after the filtered search for date - '1/1/2010', city - 'el cajon', state - 'ca', country -'us'. The table showed 2 results for the particular search as displayed below:
+* The webpage showing the results after the filtered search for date - '1/1/2010', city - 'el cajon', state - 'ca', country -'us', shape = 'triangle' as inputs in respective placeholder elements. The search can be initiated by pressing enter or clicking the input box label, after typing in the input. The filters can be reset by clicking the UFO Sightings at the top left corner of the webpage. The table showed 2 results for this particular search as displayed below:
 
 <img width="1437" alt="Screen Shot 2022-11-14 at 7 03 50 PM" src="https://user-images.githubusercontent.com/111387025/201673453-bcef5016-123d-4f5e-95ff-36b53f7a5d25.png">
 
